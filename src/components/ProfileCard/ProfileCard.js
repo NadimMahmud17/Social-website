@@ -13,7 +13,7 @@ const ProfileCard = () => {
             </div>
 
             <div className="ProfileName">
-                <span>zenzia</span>
+                <span>zenzia ai</span>
                 <span>Senior Ui designer</span>
             </div>
            
