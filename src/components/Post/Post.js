@@ -15,7 +15,7 @@ const Post = (props) => {
             <img src={img} alt=""/>
 
 
-            <div class="postReact">
+            <div className="postReact">
                 <img src={liked?Heart:NotLike} alt=""/>
                 <img src={Comment} alt=""/>
                 <img src={Share} alt=""/>

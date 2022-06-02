@@ -8,7 +8,7 @@ export const TrendData= [
       shares: 80.5,
     },
     {
-      name: "Zainkeepscode",
+      name: "Nadim Mahmdu",
       shares: 75.5,
     },
     {
@@ -25,3 +25,4 @@ export const TrendData= [
     },
   ];
   
+  export default TrendData;
