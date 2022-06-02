@@ -27,3 +27,4 @@ export const PostsData = [
         liked: false
     }
 ]
+export default PostsData;
