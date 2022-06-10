@@ -40,7 +40,7 @@
   }
   .button:hover{
     cursor: pointer;
-    color: #fca61f;
+    color: var(--orange);
     background: transparent;
     border: 2px solid var(--orange);
   }
