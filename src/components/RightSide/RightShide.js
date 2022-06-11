@@ -17,6 +17,7 @@ const RightShide = () => {
                 <img src={Comment} alt=""/>
             </div>
             <TrendCard></TrendCard>
+            <button className="button r-button">Shares</button>
         </div>
     );
 };

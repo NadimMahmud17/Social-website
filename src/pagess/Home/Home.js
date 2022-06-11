@@ -1,8 +1,10 @@
 import React from 'react';
+import "./Home.css";
+
 import PostSide from '../../components/PostSide/PostSide';
 import ProfileSide from '../../components/profileSide/ProfileSide';
 import RightShide from '../../components/RightSide/RightShide';
-import "./Home.css";
+
 
 const Home = () => {
     return (

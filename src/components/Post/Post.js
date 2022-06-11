@@ -8,7 +8,7 @@ import Share from "../../img/share.png"
 
 const Post = (props) => {
 
-    const {name,img,likes,liked,desc,}=props.post;
+    const {name,img,likes,liked,desc}=props.post;
 
     return (
         <div className="Post">
